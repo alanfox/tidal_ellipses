@@ -11,4 +11,5 @@ dependencies:
   - seaborn=0.11.2
   - xarray=0.15.1
   - ffmpeg=4.4.1
+  - libiconv=1.16
 prefix: C:\Users\sa05af\Miniconda3\envs\py3_8Carto
