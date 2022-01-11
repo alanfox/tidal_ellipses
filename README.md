@@ -5,6 +5,8 @@ Animated plotting of tidal ellipses and time series. Plots tida ellipses and tid
 
 It is not set up to work with real times yet, so is no use for prediction! Just for demonstration.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alanfox/tidal_ellipses.git/master)
+
 Project Organization
 ------------
 
